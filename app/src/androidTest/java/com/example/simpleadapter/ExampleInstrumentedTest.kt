@@ -1,4 +1,4 @@
-package com.example.simpleadapter
+package com.example.simple_adapter
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
